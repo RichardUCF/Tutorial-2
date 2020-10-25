@@ -6,6 +6,12 @@ TagManager:
   tags:
   - Coin
   - Ground
+  - Enemy
+  - Count
+  - 'Life; '
+  - 'Count; '
+  - Lose
+  - Win
   layers:
   - Default
   - TransparentFX
